@@ -1,0 +1,62 @@
+[
+	{
+		"title": "Godzilla",
+		"artist": "Eminem",
+		"genre": "Hip hop",
+		"year": "2020"
+	},
+	{
+		"title": "Life is Good",
+		"artist": "Future",
+		"genre": "Hip hop",
+		"year": "2020"
+	},
+	{
+		"title": "The Box",
+		"artist": "Roddy Rich",
+		"genre": "Hip hop",
+		"year": "2019"
+	},
+	{
+		"title": "HIGHEST IN THE ROOM",
+		"artist": "Travis Scott",
+		"genre": "Hip hop",
+		"year": "2019"
+	},
+	{
+		"title": "Blinding Lights",
+		"artist": "The Weeknd",
+		"genre": "Pop",
+		"year": "2019"
+	},
+	{
+		"title": "Don't Start Now",
+		"artist": "Dua Lipa",
+		"genre": "Pop",
+		"year": "2019"
+	},
+	{
+		"title": "My Oh My",
+		"artist": "Camila Cabello",
+		"genre": "Pop",
+		"year": "2019"
+	},
+	{
+		"title": "The Bones",
+		"artist": "Maren Morris",
+		"genre": "Country",
+		"year": "2019"
+	},
+	{
+		"title": "More Hearts Than Mine",
+		"artist": "Ingrid Andress",
+		"genre": "Country",
+		"year": "2019"
+	},
+	{
+		"title": "Beer Never Broke My Heart",
+		"artist": "Luke Combs",
+		"genre": "Country",
+		"year": "2019"
+	},
+]
